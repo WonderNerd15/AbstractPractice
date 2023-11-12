@@ -1,0 +1,15 @@
+/home/gaby/Downloads/AbstractPractice/bin/Debug/net7.0/AbstractPractice
+/home/gaby/Downloads/AbstractPractice/bin/Debug/net7.0/AbstractPractice.deps.json
+/home/gaby/Downloads/AbstractPractice/bin/Debug/net7.0/AbstractPractice.runtimeconfig.json
+/home/gaby/Downloads/AbstractPractice/bin/Debug/net7.0/AbstractPractice.dll
+/home/gaby/Downloads/AbstractPractice/bin/Debug/net7.0/AbstractPractice.pdb
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/AbstractPractice.csproj.AssemblyReference.cache
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/AbstractPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/AbstractPractice.AssemblyInfoInputs.cache
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/AbstractPractice.AssemblyInfo.cs
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/AbstractPractice.csproj.CoreCompileInputs.cache
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/AbstractPractice.dll
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/refint/AbstractPractice.dll
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/AbstractPractice.pdb
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/AbstractPractice.genruntimeconfig.cache
+/home/gaby/Downloads/AbstractPractice/obj/Debug/net7.0/ref/AbstractPractice.dll
